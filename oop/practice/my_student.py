@@ -36,6 +36,7 @@ new_fac_nums = [gen_faculty_num(courses[0]),
                 gen_faculty_num(courses[1]), 
                 gen_faculty_num(courses[2]) ]
 
+
 class Student(Person):
     
     def enroll(self, course_id):
@@ -63,22 +64,6 @@ geek = Student('Jack', 'Johnson')
 geek.enroll(1)
         
 geek.print_info()
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         
         
         

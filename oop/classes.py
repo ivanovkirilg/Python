@@ -49,34 +49,3 @@ print("{} has {}/100".format(getattr(ivancho, 'name'), getattr(ivancho, 'mark'))
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
